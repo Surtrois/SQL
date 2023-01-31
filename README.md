@@ -64,3 +64,4 @@ student_tag :
 - student_id : int, index, constraint : student.id
 - tag_id : int, index, constraint : tag.id
 
+# SQL
